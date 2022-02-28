@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9044#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 04 Dec 2021 19:24:33 UTC
+record: -1

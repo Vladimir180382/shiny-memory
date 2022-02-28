@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(strings: List<String>, str: String): Int {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10738#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    Fred Pola Mike Fred
+    Fred
+    Correct output:
+    2
+
+
+    Your code output:
+    kotlin.Unit
+  time: Mon, 27 Dec 2021 09:48:53 UTC
+record: -1
